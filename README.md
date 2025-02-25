@@ -1,2 +1,3 @@
-# nonlinear-wave-mechanics
-ME 69700 – Nonlinear Wave Mechanics
+# ME 69700 – Nonlinear Wave Mechanics
+
+TODO
